@@ -1,5 +1,11 @@
 ## Hi there 👋
+My name is Dr. Juan Cardenas, I received my PhD in High Energy Particle Physics at the University of Texas Arlington, where my dissertation work specialized in data analysis, deep learning development, machine learning, and building scalable software to search for elementary particles in the ATLAS experiment at CERN. I have a proven skills in developing and optimizing computational tools, leading research teams, and driving innovative solutions to data-driven challenges. I am skilled in Python, Tensorflow, Keras, AI Engineering, Langchain, Bash, Linux, C++, Batch Management Systems, Cluster Building, PostgreSQL, Redis, Teaching, Public Speaking, Scientific Communication, Team Leading, Pandas, Git, VSCode, Statistical Analysis and much more
 
+
+I am open to work as an AI Engineer, Data Scientist, Machine Learning Engineer, Physicist, Software Developer, Robotics related fields, or any other related position that requires solving interesting problems that can positively impact the world.
+Types of positions
+
+I am open to in person or hybrid positions in the greater Los Angeles area, and to remote positions anywhere within the United States or internationally.
 <!--
 **Jcardenas34/Jcardenas34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
